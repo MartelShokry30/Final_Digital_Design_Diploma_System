@@ -1,0 +1,239 @@
+F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Serializer.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Serializer.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Serializer
+
+Top level modules:
+	Serializer
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/PULSE_GEN.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/PULSE_GEN.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PULSE_GEN
+
+Top level modules:
+	PULSE_GEN
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/ALU.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/ALU.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/edge_bit_counter.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/edge_bit_counter.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module edge_bit_counter
+
+Top level modules:
+	edge_bit_counter
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Sys_ctrl.v {1 {vlog -work work -vopt -stats=none {F:\Digital_IC_Design_by_Ali_eltemsa7\Courses\Verilog\Assignments\Final_sys\Final_Sys.srcs\sources_1\imports\Final_sys\Sys_ctrl.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Sys_ctrl
+
+Top level modules:
+	Sys_ctrl
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/read_ptr_calc.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/read_ptr_calc.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module read_ptr_calc
+
+Top level modules:
+	read_ptr_calc
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/bin_to_gray_converter.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/bin_to_gray_converter.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module bin_to_gray_converter
+
+Top level modules:
+	bin_to_gray_converter
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/data_sampling.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/data_sampling.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module data_sampling
+
+Top level modules:
+	data_sampling
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Rst_sync.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Rst_sync.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Rst_sync
+
+Top level modules:
+	Rst_sync
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/CLKDIV_MUX.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/CLKDIV_MUX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CLKDIV_MUX
+
+Top level modules:
+	CLKDIV_MUX
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Rx_fsm.v {1 {vlog -work work -vopt -stats=none {F:\Digital_IC_Design_by_Ali_eltemsa7\Courses\Verilog\Assignments\Final_sys\Final_Sys.srcs\sources_1\imports\Final_sys\Rx_fsm.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fsm
+
+Top level modules:
+	fsm
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Mux_4_to_1.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Mux_4_to_1.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Mux_4_to_1
+
+Top level modules:
+	Mux_4_to_1
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/TOP_module.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/TOP_module.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Uart_tx
+
+Top level modules:
+	Uart_tx
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/RAM.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/RAM.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Reg_File_8x16
+
+Top level modules:
+	Reg_File_8x16
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/SYS_TOP.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/SYS_TOP.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Tx_FSM.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Tx_FSM.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/CLK_GATE.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/CLK_GATE.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/write_ptr_calc.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/write_ptr_calc.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module write_ptr_calc
+
+Top level modules:
+	write_ptr_calc
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/deserializer.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/deserializer.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module deserializer
+
+Top level modules:
+	deserializer
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Parity_calc.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Parity_calc.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Parity_calc
+
+Top level modules:
+	Parity_calc
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/start_check.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/start_check.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module start_check
+
+Top level modules:
+	start_check
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/stop_check.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/stop_check.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module stop_check
+
+Top level modules:
+	stop_check
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Fifo_memory.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Fifo_memory.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Fifo_memory
+
+Top level modules:
+	Fifo_memory
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Clk_Div.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Clk_Div.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/UART_RX.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/UART_RX.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module parity_check
+
+Top level modules:
+	parity_check
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/FSM.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/FSM.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module fsm
+
+Top level modules:
+	fsm
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Data_sync.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Data_sync.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Data_sync
+
+Top level modules:
+	Data_sync
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/parity_check.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/parity_check.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module parity_check
+
+Top level modules:
+	parity_check
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/top_fifo.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/top_fifo.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module top_fifo
+
+Top level modules:
+	top_fifo
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Uart_top.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Uart_top.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Gray_sync.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/Gray_sync.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Gray_sync
+
+Top level modules:
+	Gray_sync
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/sync_r2w.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/sync_r2w.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module sync_r2w
+
+Top level modules:
+	sync_r2w
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sources_1/imports/Final_sys/uart_rx_top.v {1 {vlog -work work -vopt -stats=none {F:\Digital_IC_Design_by_Ali_eltemsa7\Courses\Verilog\Assignments\Final_sys\Final_Sys.srcs\sources_1\imports\Final_sys\uart_rx_top.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module uart_rx_top
+
+Top level modules:
+	uart_rx_top
+
+} {} {}} F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sim_1/new/Sys_top_tb.v {1 {vlog -work work -vopt -stats=none F:/Digital_IC_Design_by_Ali_eltemsa7/Courses/Verilog/Assignments/Final_sys/Final_Sys.srcs/sim_1/new/Sys_top_tb.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module tb_SYS_TOP
+
+Top level modules:
+	tb_SYS_TOP
+
+} {} {}}
